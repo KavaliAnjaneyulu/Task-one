@@ -1,0 +1,14 @@
+[
+    {
+        "ts": 1691761965000,
+        "id": "MX-2001",
+        "temperature_celsius": 82.1,
+        "vibration_hz": 12.1
+    },
+    {
+        "ts": 1691762025000,
+        "id": "MX-2002",
+        "temperature_celsius": 80.6,
+        "vibration_hz": 12.0
+    }
+]
