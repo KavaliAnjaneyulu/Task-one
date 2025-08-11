@@ -1,0 +1,14 @@
+[
+    {
+        "time": "2025-08-11T14:32:45Z",
+        "machineID": "MX-1001",
+        "tempC": 85.2,
+        "vibrationHz": 12.5
+    },
+    {
+        "time": "2025-08-11T14:33:45Z",
+        "machineID": "MX-1002",
+        "tempC": 83.7,
+        "vibrationHz": 11.8
+    }
+]
