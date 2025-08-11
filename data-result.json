@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": 1691761965000,
+        "machine_id": "MX-1001",
+        "temperature": 85.2,
+        "vibration": 12.5
+    },
+    {
+        "timestamp": 1691762025000,
+        "machine_id": "MX-1002",
+        "temperature": 83.7,
+        "vibration": 11.8
+    },
+    {
+        "timestamp": 1691762085000,
+        "machine_id": "MX-2001",
+        "temperature": 82.1,
+        "vibration": 12.1
+    },
+    {
+        "timestamp": 1691762145000,
+        "machine_id": "MX-2002",
+        "temperature": 80.6,
+        "vibration": 12.0
+    }
+]
